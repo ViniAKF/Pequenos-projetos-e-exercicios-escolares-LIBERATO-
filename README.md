@@ -1,1 +1,1 @@
-# Pequenos-projetos-e-exercicios-escolares-LIBERATO-
+# O repositório aida está sendo organizado
