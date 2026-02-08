@@ -1,0 +1,13 @@
+# Compilation folders and files
+bin/
+obj/
+*.exe
+*.o
+
+# Code::Blocks temporary files
+*.depend
+*.layout
+
+#code-related folders
+*.txt
+*.bmp
